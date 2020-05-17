@@ -1,0 +1,5 @@
+%{
+  xs_regex:
+    {:git, "https://github.com/zadean/xs_regex.git", "fb95b782db790bf94ae25fec83baf172bc620a38",
+     [branch: "master"]}
+}

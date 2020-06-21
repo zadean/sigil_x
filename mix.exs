@@ -22,7 +22,7 @@ defmodule SigilX.MixProject do
   defp deps do
     [
       # {:dep_from_hexpm, "~> 0.3.0"},
-      {:xs_regex, git: "https://github.com/zadean/xs_regex.git", branch: "master"}
+      {:xs_regex, git: "https://github.com/zadean/xs_regex.git", branch: "main"}
     ]
   end
 end
